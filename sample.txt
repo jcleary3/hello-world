@@ -3,3 +3,5 @@ This is the first line. It has nothing.
 This is the third line, it has nothing
 
 This is the fifth line, added and removed some things
+
+Adding line on 2019-10-14 to relearn git add prdocedure
